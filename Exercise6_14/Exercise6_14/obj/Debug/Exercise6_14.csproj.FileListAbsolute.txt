@@ -1,0 +1,6 @@
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\bin\Debug\Exercise6_14.exe.config
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\bin\Debug\Exercise6_14.exe
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\bin\Debug\Exercise6_14.pdb
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\obj\Debug\Exercise6_14.csprojResolveAssemblyReference.cache
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\obj\Debug\Exercise6_14.exe
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise6_14\Exercise6_14\obj\Debug\Exercise6_14.pdb

@@ -1,0 +1,5 @@
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise7_24\Exercise7_24\bin\Debug\Exercise7_24.exe.config
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise7_24\Exercise7_24\bin\Debug\Exercise7_24.exe
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise7_24\Exercise7_24\bin\Debug\Exercise7_24.pdb
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise7_24\Exercise7_24\obj\Debug\Exercise7_24.exe
+c:\users\aaron.fonseca\documents\visual studio 2015\Projects\Exercise7_24\Exercise7_24\obj\Debug\Exercise7_24.pdb
